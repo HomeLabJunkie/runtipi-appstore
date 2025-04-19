@@ -3,6 +3,7 @@
 "name": "Authelia",
 "available": true,
 "exposable": true,
+"dyanmic_conifg": true,
 "port": 9091,
 "id": "authelia",
 "form_fields": [
